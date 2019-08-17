@@ -1,0 +1,3 @@
+C:\Users\kymde\pip\obj\Debug\kk.njsprojAssemblyReference.cache
+C:\Users\kymde\pip\obj\Debug\kk.njsproj.CoreCompileInputs.cache
+C:\Users\kymde\pip\bin\Microsoft.NodejsTools.WebRole.dll
